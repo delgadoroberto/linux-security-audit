@@ -203,12 +203,11 @@ Senior Cybersecurity Consultant
 
 Areas of interest:
 
-- Vulnerability Management
-- Security Governance & Compliance
-- Linux Security
-- Cloud Security
-- Security Automation
+- Cloud & Infrastructure Security
 - DevSecOps
+- Security Engineering
+- Vulnerability Management
+- Security Architecture
 
 GitHub:
 https://github.com/delgadoroberto
