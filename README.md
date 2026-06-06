@@ -4,9 +4,9 @@
 ![License](https://img.shields.io/badge/License-MIT-green)
 ![CI](https://github.com/delgadoroberto/linux-security-audit/actions/workflows/bash-lint.yml/badge.svg)
 
-A lightweight Bash-based security auditing tool for Linux systems.
+A lightweight Linux security auditing tool written in Bash.
 
-This project collects basic security information from a Linux host and generates a simple report that can be used for learning, lab environments, or as a starting point for security assessments.
+This project collects basic security information from a Linux host and generates a simple audit report for learning, lab environments, and basic security assessments.
 
 ---
 
@@ -184,7 +184,7 @@ This project was created to practice and demonstrate:
 - Security auditing fundamentals
 - System enumeration techniques
 - Security automation concepts
-- Basic CI/CD integration with GitHub Actions
+- CI/CD integration with GitHub Actions
 
 ---
 
@@ -226,7 +226,7 @@ Senior Cybersecurity Consultant
 - Vulnerability Management
 - Security Architecture
 
-GitHub:
+GitHub Profile:  
 https://github.com/delgadoroberto
 
 ---
