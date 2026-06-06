@@ -18,7 +18,7 @@ jobs:
         run: sudo apt-get update && sudo apt-get install -y shellcheck
 
       - name: Validate Bash syntax
-        run: bash -n audit.sh
+        run: bash -n security_audit.sh
 
       - name: Run ShellCheck
-        run: shellcheck audit.sh
+        run: shellcheck security_audit.sh
