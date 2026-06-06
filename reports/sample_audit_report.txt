@@ -1,0 +1,28 @@
+===== SYSTEM INFORMATION =====
+kali
+Linux kali 6.19.14+kali-amd64 #1 SMP PREEMPT_DYNAMIC Kali 6.19.14-1+kali1 (2026-05-05) x86_64 GNU/Linux
+ 18:24:40 up 1 min,  1 user,  load average: 5.63, 2.52, 0.95
+
+===== OPEN PORTS =====
+Netid State  Recv-Q Send-Q Local Address:Port  Peer Address:Port
+udp   UNCONN 0      0            0.0.0.0:34276      0.0.0.0:*
+udp   UNCONN 0      0               [::]:34276         [::]:*
+tcp   LISTEN 0      50         127.0.0.1:39109      0.0.0.0:*
+tcp   LISTEN 0      1024         0.0.0.0:8834       0.0.0.0:*
+tcp   LISTEN 0      4096       127.0.0.1:35629      0.0.0.0:*
+tcp   LISTEN 0      1024            [::]:8834          [::]:*
+
+===== USERS WITH UID 0 =====
+root
+
+===== WORLD WRITABLE FILES =====
+/sys/kernel/security/tomoyo/self_domain
+/sys/kernel/security/apparmor/.remove
+/sys/kernel/security/apparmor/.replace
+/sys/kernel/security/apparmor/.load
+/sys/kernel/security/apparmor/.access
+/proc/sys/kernel/ns_last_pid
+/proc/pressure/io
+/proc/pressure/cpu
+/proc/pressure/memory
+/proc/1/task/1/attr/current
