@@ -218,22 +218,13 @@ Always obtain proper authorization before auditing systems that you do not own o
 
 Senior Cybersecurity Consultant
 
-### Areas of Interest
+### Focus Areas
 
-- Cloud Security
-- Infrastructure Security
+- Cloud & Infrastructure Security
+- Security Engineering
 - DevSecOps
 - Vulnerability Management
-- Security Engineering
-
-### Areas of Expertise
-
-- Cloud Security
-- Infrastructure Security
-- Vulnerability Management
-- DevSecOps
-- Security Engineering
-- Security Standards & Frameworks
+- Security Architecture
 
 GitHub:
 https://github.com/delgadoroberto
