@@ -212,25 +212,6 @@ Always obtain proper authorization before auditing systems that you do not own o
 
 ---
 
-## Author
-
-**Roberto Delgado**
-
-Senior Cybersecurity Consultant
-
-### Focus Areas
-
-- Cloud & Infrastructure Security
-- Security Engineering
-- DevSecOps
-- Vulnerability Management
-- Security Architecture
-
-GitHub Profile:  
-https://github.com/delgadoroberto
-
----
-
 ## License
 
 This project is licensed under the MIT License. See the `LICENSE` file for details.
